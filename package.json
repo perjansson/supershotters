@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "build": "next build",
+    "start": "next start -p 8000",
+    "dev": "next"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.6.1",
+    "next": "^5.0.0",
+    "prettier": "^1.10.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-jsx": "^2.2.4"
+  },
+  "name": "supershotters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
